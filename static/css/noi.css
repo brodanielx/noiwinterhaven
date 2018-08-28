@@ -1,0 +1,258 @@
+.noifooter a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.noifooter {
+    position: relative !important;
+    background-color: #26222c !important;
+    margin: 0 auto !important;
+    overflow: hidden !important;
+    padding: 30px 0 30px 0 !important;
+    color: #999999;
+}
+.noifooter2 {
+    background-color: #000;
+    border-top: 1px solid #2b2b2b;
+    color: #999999;
+    font-size: 11px;
+    padding: 30px 0;
+    position: relative;
+    width: 100%;
+}
+.navbartab:hover {
+    background-color: rgba(255, 0, 0, 0.9);
+}
+/*.navbarlink:hover {
+    color: #DC0012 !important;
+}
+.navbarspan:hover {
+    background-color: #DC0012 !important;
+}*/
+i.fa.white {
+    color: #fff;
+}
+.np {
+  padding: 0px;
+}
+.heading-gray {
+  color: #6f6f6f;
+}
+.mt10 {
+  margin-top: 10px;
+}
+
+.mt15 {
+  margin-top: 15px;
+}
+
+.mb25 {
+  margin-bottom: 25px;
+}
+.nptb {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.nplr {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.npl {
+  padding-left: 0px;
+}
+.lfimg {
+  max-height: 320px;
+}
+.jumbotron h1 {
+  color: #fff;
+  font-family: 'Noto Serif', serif;
+  text-align: center;
+}
+.of {
+  font-size: 30px !important;
+  font-family: 'Crimson Text', serif !important;
+  font-style: italic;
+}
+.nmb {
+  margin-bottom: 0px;
+}
+.nmt {
+  margin-top: 0px;
+}
+.line {
+   width: 33%;
+   text-align: center;
+   border-bottom: 1px solid #fff;
+   line-height: 0.1em;
+   margin: 15px 0 10px;
+}
+
+.line-small {
+   width: 10%;
+   text-align: center;
+   border-bottom: 1px solid #fff;
+   line-height: 0.1em;
+   margin: 15px 0 10px;
+}
+@media screen and (max-width: 2400px) {
+  .jumbotron h1, .jumbotron .h1 {
+    font-size: 63px;
+  }
+  .jumbotron .tsg {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 1201px) {
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 52px;
+  }
+  .jumbotron .tsg {
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 38px;
+  }
+  .jumbotron .of {
+    font-size: 26px !important;
+  }
+  .jumbotron .tsg {
+    font-size: 9px;
+  }
+}
+@media screen and (max-width: 718px) {
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 26px;
+  }
+  .jumbotron .of {
+    font-size: 20px !important;
+  }
+}
+@media screen and (max-width: 530px) {
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 16px;
+  }
+  .jumbotron .of {
+    font-size: 16px !important;
+  }
+  .jumbotron .not-iphone {
+    display: none;
+  }
+  .jumbotron .iphone {
+    display: inline;
+  }
+  .iphone-hide {
+    display: none;
+  }
+}
+
+.display-none {
+  display: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.mt7 {
+  margin-top: 7px;
+}
+.mt20 {
+  margin-top: 20px;
+}
+.mt25 {
+  margin-top: 25px;
+}
+.mt30 {
+  margin-top: 30px;
+}
+.mt55 {
+  margin-top: 45px;
+}
+.mt65 {
+  margin-top: 65px;
+}
+.pb10 {
+  padding-bottom: 10px;
+}
+.pt10 {
+  padding-top: 10px;
+}
+.lightnonwhitebg {
+  /*background-color: #f5f7f8;*/
+  background-color: #eee;
+}
+.mb20 {
+  margin-bottom: 20px;
+}
+.r10 {
+  right: 10px;
+}
+.width300 {
+  width: 300px;
+}
+.white {
+  color: #fff;
+}
+.transparent {
+  opacity: 0.0;
+}
+.bot8 {
+  bottom: 8px;
+}
+.leftcornerimg {
+  width: 20px;
+}
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.mb30 {
+  margin-bottom: 30px;
+}
+
+hr {
+    border-color: #DC0012;
+    border-width: 3px;
+    max-width: 50px;
+}
+
+.mtb25 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.pr50 {
+  padding-right: 50px;
+}
+
+.height265 {
+  max-height: 265px;
+}
+
+.merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+.width12per {
+  width: 12%;
+}
+.width20per {
+  width: 20%;
+}
+
+.width34per {
+  width: 34%;
+}
